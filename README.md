@@ -1,3 +1,3 @@
 # GitLearning-
 Learning Github
-We are llearning hw to use github
+We are learning hw to use github
